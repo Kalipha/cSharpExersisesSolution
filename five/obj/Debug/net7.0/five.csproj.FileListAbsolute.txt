@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQS\excercise two\five\bin\Debug\net7.0\five.exe
+C:\Users\DELL\Desktop\MGQS\excercise two\five\bin\Debug\net7.0\five.deps.json
+C:\Users\DELL\Desktop\MGQS\excercise two\five\bin\Debug\net7.0\five.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQS\excercise two\five\bin\Debug\net7.0\five.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\five\bin\Debug\net7.0\five.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\five.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\five.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\five.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\five.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\refint\five.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\five.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\five.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\five\obj\Debug\net7.0\ref\five.dll

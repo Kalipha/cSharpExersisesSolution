@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQS\excercise two\two\bin\Debug\net7.0\two.exe
+C:\Users\DELL\Desktop\MGQS\excercise two\two\bin\Debug\net7.0\two.deps.json
+C:\Users\DELL\Desktop\MGQS\excercise two\two\bin\Debug\net7.0\two.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQS\excercise two\two\bin\Debug\net7.0\two.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\two\bin\Debug\net7.0\two.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\two.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\two.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\two.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\two.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\refint\two.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\two.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\two.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\two\obj\Debug\net7.0\ref\two.dll

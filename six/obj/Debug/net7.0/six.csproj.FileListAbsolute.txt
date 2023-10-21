@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQS\excercise two\six\bin\Debug\net7.0\six.exe
+C:\Users\DELL\Desktop\MGQS\excercise two\six\bin\Debug\net7.0\six.deps.json
+C:\Users\DELL\Desktop\MGQS\excercise two\six\bin\Debug\net7.0\six.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQS\excercise two\six\bin\Debug\net7.0\six.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\six\bin\Debug\net7.0\six.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\six.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\six.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\six.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\six.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\six.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\refint\six.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\six.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\six.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\six\obj\Debug\net7.0\ref\six.dll

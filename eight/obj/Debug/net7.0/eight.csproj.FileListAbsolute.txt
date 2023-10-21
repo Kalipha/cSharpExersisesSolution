@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\bin\Debug\net7.0\eight.exe
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\bin\Debug\net7.0\eight.deps.json
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\bin\Debug\net7.0\eight.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\bin\Debug\net7.0\eight.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\bin\Debug\net7.0\eight.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\eight.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\eight.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\eight.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\eight.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\refint\eight.dll
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\eight.pdb
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\eight.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQS\excercise two\eight\obj\Debug\net7.0\ref\eight.dll
